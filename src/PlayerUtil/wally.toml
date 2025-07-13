@@ -1,8 +1,9 @@
 [package]
-name = "moruvir/event"
+name = "moruvir/playerutil"
 version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
 
 [dependencies]
+Cleaner = "moruvir/cleaner@1.0.0"
