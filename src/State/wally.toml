@@ -1,0 +1,9 @@
+[package]
+name = "moruvir/state"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+
+[dependencies]
+Event = "moruvir/event@1.0.0"
